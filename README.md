@@ -1,2 +1,2 @@
 # hacker-solutions-ai
-solutions of hacker ranker challenges (artificial intelligence)
+solutions of hacker rank challenges (artificial intelligence)
